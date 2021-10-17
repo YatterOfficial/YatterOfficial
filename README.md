@@ -7,7 +7,7 @@
 - For the time being, emails to the email addresses listed in both GitHub accounts go to me, Anthony Harrison
 
 
-## Raison d'être
+## Raison d'être ...
 
 The reason for these libraries being made public is that we will be making direct backend upload capacity for end-users (with their own access token) so that they can create and upload content that will be able to be viewed in our apps (iOS, Android, MacOS, Windows).
 
