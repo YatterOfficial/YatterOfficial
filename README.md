@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YatterOfficial
-- We're in an alpha stage and these repos have been fortked from (https://github.com/HarrisonOfTheNorth)[https://github.com/HarrisonOfTheNorth] so that we can upload our alpha Nuget Packages to Nuget
+- We're in an alpha stage and these repos have been forked from my original repos at (https://github.com/HarrisonOfTheNorth)[https://github.com/HarrisonOfTheNorth] so that we can upload our alpha Nuget Packages to Nuget and also have an official project link in Nuget that does not represent my personal HarrisonOfTheNorth account
 - Meanwhile, our Demo projects will continue to be served from HarrisonOfTheNorth
 - The repos here at YatterOfficial represent the Nuget uploads, and our incremental improvements towards each new release
+- For the time being, emails to the email addresses listed in both GitHub accounts go to me, Anthony Harrison
 
 
 <!---
