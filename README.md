@@ -1,6 +1,6 @@
-## y@R &trade; ~ You-At-A-Resource &trade;
+## y@R &trade; :: You-At-A-Resource &trade;
 
-Open-Source Content Creation Libraries and Tooling for our y@R &trade; app.
+Open-Source Content Creation Libraries and Tooling for our y@R &trade; (You-At-A-Resource) app.
 
 - Android
 - iOS
