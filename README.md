@@ -1,5 +1,8 @@
 ## Raison d'être ...
 
+- Public
+- Open-Source
+
 The reason for these libraries being made public is that we will be making direct backend upload capacity for end-users (with their own access token) so that they can create and upload content that will be able to be viewed in our apps (iOS, Android, MacOS, Windows).
 
 - _These libraries will enable individuals and agencies alike, to automate the creation and feeding of content to individual user accounts in our apps._
