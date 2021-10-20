@@ -24,7 +24,12 @@ Once these libraries have sufficiently matured - and our apps are in Beta - we w
 
 _Stay tuned!_
 
-y@R and You-At-A-Resource are trademarks of Count Anthony Harrison
+
+
+
+y@R and You-At-A-Resource are trademarks of Count Anthony Harrison, operating from the United Kingdom
+
+Copyright &copy; 2021
 
 
 <!---
