@@ -24,6 +24,8 @@ Once these libraries have sufficiently matured - and our apps are in Beta - we w
 
 _Stay tuned!_
 
+y@R and You-At-A-Resource are trademarks of Count Anthony Harrison
+
 
 <!---
 YatterOfficial/YatterOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
